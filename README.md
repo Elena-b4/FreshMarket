@@ -18,7 +18,7 @@ and install laravel admin.
 
 This is an admin frontend builder for laravel that helps you create CRUD backends with just a few lines of code.
 
-- [Laravel-admin] - Вocumentation
+- [Laravel-admin] - Documentation
 
 [Laravel-admin]: <https://laravel-admin.org/docs/en/README>
   
