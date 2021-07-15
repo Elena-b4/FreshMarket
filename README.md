@@ -4,9 +4,15 @@ Online store written in php, laravel framework
 
 ## How to start a project
 
-- git clone git@github.com:Elena-b4/FreshMarket.git
-- docker-compose up -d workspace nginx postgres 
+- git clone git@github.com:Elena-b4/FreshMarket.git FreshMarket
+- cd FreshMarket
+- cd project
+- cp .env.example .env
+- cd ../laradock
+- cp .env.example .env
+- docker-compose up -d nginx postgres 
 - docker-compose exec workspace bash
+- composer install
 - php artisan project:install
 
 
